@@ -1,5 +1,7 @@
 # webgl
 
+This project is for personal study for learning webgl
+
 ## Project setup
 ```
 npm install
