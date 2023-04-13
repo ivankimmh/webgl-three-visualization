@@ -1,6 +1,10 @@
 # webgl
 
 This project is for personal study for learning webgl
+3호기 동작 모션 상하 좌우
+
+
+
 
 ## Project setup
 ```
